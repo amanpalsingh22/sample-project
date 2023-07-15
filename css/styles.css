@@ -123,7 +123,7 @@ html {
 }
 
 body {
-    background-image: url(/Assets/bg.jpg);
+    background-image: url(../Assets/bg.jpg);
     background-attachment: fixed;
 }
 
